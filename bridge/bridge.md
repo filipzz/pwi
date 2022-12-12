@@ -20,12 +20,16 @@ Program pokazuje graczowi:
 i oczekuje na odzywkę gracza, a następnie pokazuje czy wskazana odzywka jest zgodna ze standardem WJ.
 
 
+Zaprojektuj program tak, aby można było łatwo wprowadzać zmiany do strategii licytowania.
+
+
+
 ## Dodatkowe informacje
 
 ### Format PBN (#pbn)
 
 Pliki w formacie **Portable Bridge Notation** [pbn_v21](https://www.tistis.nl/pbn/)
-są plikami tekstowymi, które przechowują informacje dotyczące brydżowego rozdania. Przykładowy plik (część 1):
+są plikami tekstowymi, które przechowują informacje dotyczące brydżowego rozdania. Przykładowy [plik](bridge/pbn7198348092905869869.pbn):
 
 ```pbn
 % PBN 2.1
@@ -92,4 +96,4 @@ HJ SJ CJ DA
 *
 ```
 
-Powyższy plik zawiera zarówno informacje o rozdanych kartach jak i przebiegu licytacji (zgodnie z innym schematem licytowania), oraz samego rozdania.
+Powyższy plik zawiera zarówno informacje o rozdanych kartach jak i przebiegu licytacji (zgodnie z innym schematem licytowania), oraz przebiegu samego rozdania.
