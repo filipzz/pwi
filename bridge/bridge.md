@@ -20,7 +20,7 @@ Program pokazuje graczowi:
 i oczekuje na odzywkę gracza, a następnie pokazuje czy wskazana odzywka jest zgodna ze standardem WJ.
 
 
-Zaprojektuj program tak, aby można było łatwo wprowadzać zmiany do strategii licytowania.
+Zaprojektuj program tak, aby można było łatwo wprowadzać zmiany do strategii licytowania - (w szczególności zaproponuj odpowiednią strukturę danych do przechowywania informacji o strategii).
 
 
 
