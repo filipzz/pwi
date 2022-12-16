@@ -3,7 +3,7 @@
 
 1. [Licytator brydżowy](bridge/bridge.md)
 2. [Wister](bridge/bridge_vist.md)
-3. [Generator slajdów](bridge/beamer.md)
+3. [Generator slajdów](beamer/beamer.md)
 4. [Dziwny poker](poker/poker.md)
 5. [d'Hondt rule](dhondt/dhondt.md)
 6. Anagramy
