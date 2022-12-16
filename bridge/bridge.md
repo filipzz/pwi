@@ -29,7 +29,7 @@ Zaprojektuj program tak, aby można było łatwo wprowadzać zmiany do strategii
 ### Format PBN (#pbn)
 
 Pliki w formacie **Portable Bridge Notation** [pbn_v21](https://www.tistis.nl/pbn/)
-są plikami tekstowymi, które przechowują informacje dotyczące brydżowego rozdania. Przykładowy [plik](bridge/pbn7198348092905869869.pbn):
+są plikami tekstowymi, które przechowują informacje dotyczące brydżowego rozdania. Przykładowy [plik](pbn7198348092905869869.pbn):
 
 ```pbn
 % PBN 2.1
